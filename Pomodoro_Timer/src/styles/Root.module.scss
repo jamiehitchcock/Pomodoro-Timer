@@ -1,0 +1,9 @@
+@import "./Variables.scss";
+
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    caret-color: transparent;
+}
